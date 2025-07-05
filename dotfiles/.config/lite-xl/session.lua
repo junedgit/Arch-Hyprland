@@ -1,0 +1,1 @@
+return {recents={[3]="/home/juned",[1]="/home/juned/.config/hypr",[2]="/home/juned/.config"}, window={[1]=1536,[2]=864,[3]=187,[4]=95,["n"]=4}, window_mode="normal", previous_find={[1]="caps",[2]="border"}, previous_replace={}}
